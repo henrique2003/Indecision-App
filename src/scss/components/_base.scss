@@ -1,0 +1,33 @@
+//Fonts
+@import url('https://fonts.googleapis.com/css?family=Poppins|Roboto&display=swap');
+
+//Variables
+//colors
+$off-black: #20222b;
+$off-white: #a5afd7;
+$dark-blue: #333745;
+$light-blue: #464b5e;
+$blue: #3c4251 ;
+$purple: #8357c5;
+
+//fonts
+$font-roboto: 'Roboto', sans-serif;
+$font-poppins: 'Poppins', sans-serif;
+
+/*
+$m-size: 1.6rem
+$l-size: 3.2rem
+$xl-size: 4.8rem
+*/
+
+//Default style
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: $dark-blue;
+}

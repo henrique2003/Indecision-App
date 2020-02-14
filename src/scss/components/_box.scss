@@ -1,0 +1,29 @@
+.box {
+    background: $light-blue;
+    margin-bottom: 4.8rem;
+}
+
+.box-header {
+    background: $blue;
+    color: $off-white;
+    font-family: $font-poppins;
+    letter-spacing: 1px;
+    padding: 1.6rem;
+    display: flex;
+    justify-content: space-between;
+
+    h3 {
+        margin: 0;
+    }
+}
+
+.message {
+    color: $off-white;
+    margin: 0;
+    padding: 3.2rem;
+    text-align: center;
+    font-size: 1.3rem;
+    font-family: $font-poppins;
+    letter-spacing: 1px;
+    border-bottom: 1px solid lighten($light-blue, 10%) ;
+}
