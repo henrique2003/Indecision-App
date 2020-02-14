@@ -28,7 +28,10 @@
     font-weight: bold;
     letter-spacing: 2px;
     font-size: 1.1rem;
-    padding: 1rem;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    padding-left: 1rem;
+    padding-right: 1rem;
     cursor: pointer;
     font-family: $font-poppins;
 }
