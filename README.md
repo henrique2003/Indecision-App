@@ -1,9 +1,9 @@
 O projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
 
 ### Feito com:
-1.React js.
-2.HTML.
-3.CSS.
+1.React js.<br />
+2.HTML.<br />
+3.CSS.<br />
 
 ### O que posso fazer nesta aplicação?
 Adicione opções do que fazer e sorteie uma das alternativas.
