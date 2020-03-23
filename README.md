@@ -1,7 +1,7 @@
 ### Feito com:
-1.React js. [Create React App](https://github.com/facebook/create-react-app).<br />
-2.HTML.<br />
-3.CSS.<br />
+1. React js. [Create React App](https://github.com/facebook/create-react-app).<br />
+2. HTML.<br />
+3. CSS.<br />
 
 ### O que posso fazer nesta aplicação?
 Adicione opções do que fazer e sorteie uma das alternativas.
