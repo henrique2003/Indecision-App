@@ -2,7 +2,7 @@ O projeto foi criado com [Create React App](https://github.com/facebook/create-r
 
 ## Você pode rodar o projeto com:
 
-### `yarn start`
+### `yarn start` ou `npm run start`
 
 Rode a aplicação no modo de desenvolvimento.<br />
 Abra [http://localhost:3000](http://localhost:3000) e veja no seu navegador.
