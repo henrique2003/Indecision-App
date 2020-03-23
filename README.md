@@ -1,7 +1,5 @@
-O projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
-
 ### Feito com:
-1.React js.<br />
+1.React js. [Create React App](https://github.com/facebook/create-react-app).<br />
 2.HTML.<br />
 3.CSS.<br />
 
