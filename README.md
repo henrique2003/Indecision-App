@@ -1,5 +1,13 @@
 O projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
 
+### Feito com:
+1.React js.
+2.HTML.
+3.CSS.
+
+### O que posso fazer nesta aplicação?
+Adicione opções do que fazer e sorteie uma das alternativas.
+
 ## Você pode rodar o projeto com:
 
 ### `yarn start` ou `npm run start`
