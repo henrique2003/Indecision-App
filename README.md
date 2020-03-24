@@ -18,3 +18,4 @@ Abra [http://localhost:3000](http://localhost:3000) e veja no seu navegador.
 
 ## Veja a aplicação rodando:
 
+[![](http://img.youtube.com/vi/DBTR1auRLQ4/0.jpg)](http://www.youtube.com/watch?v=DBTR1auRLQ4 "")
