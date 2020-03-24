@@ -17,5 +17,3 @@ Abra [http://localhost:3000](http://localhost:3000) e veja no seu navegador.
 2. Você pode ver os erros no console apertando f12 e clicando em console.<br />
 
 ## Veja a aplicação rodando:
-
-![Uploading indecision-app_Trim.gif…]()
