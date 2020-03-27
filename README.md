@@ -6,11 +6,11 @@
 ### O que posso fazer nesta aplicação?
 Adicione opções do que fazer e sorteie uma das alternativas.
 
-## Você pode rodar o projeto com:
-
 ### Instalando o projeto:
 
 Digite no terminal `git clone https://github.com/henrique2003/Indecision-App.git`
+
+![Instalando oProjeto](/install_Trim.gif)
 
 ### Rode a app com `yarn start` ou `npm run start`
 
