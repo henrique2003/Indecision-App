@@ -25,4 +25,4 @@ Abra [http://localhost:3000](http://localhost:3000) e veja no seu navegador.
 
 ### Como para a aplicação?
 
-Para parar o app você pode apertar as teclas `Ctrl + c`.
+Para parar de rodar o app você pode apertar as teclas `Ctrl + c`.
