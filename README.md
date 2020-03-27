@@ -10,9 +10,9 @@ Adicione opções do que fazer e sorteie uma das alternativas.
 
 ### Instalando o projeto:
 
-Rode no terminal `git clone https://github.com/henrique2003/Indecision-App.git`
+Digite no terminal `git clone https://github.com/henrique2003/Indecision-App.git`
 
-### `yarn start` ou `npm run start`
+### Rode a app com `yarn start` ou `npm run start`
 
 Rode a aplicação no modo de desenvolvimento.<br />
 Abra [http://localhost:3000](http://localhost:3000) e veja no seu navegador.
