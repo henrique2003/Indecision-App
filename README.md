@@ -27,6 +27,6 @@ Abra [http://localhost:3000](http://localhost:3000) e veja no seu navegador.
 ## Veja a aplicação rodando:
 ![Projeto funcinando](/indecision-app_Trim.gif)
 
-### Como para a aplicação?
+### Como parar a aplicação?
 
 Para parar de rodar o app você pode apertar as teclas `Ctrl + c`.
