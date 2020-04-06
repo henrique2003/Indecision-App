@@ -18,6 +18,7 @@ Digite no terminal `git clone https://github.com/henrique2003/Indecision-App.git
 
 ### Rode a app com `yarn start` ou `npm run start`
 
+Entre no diretorio do projto e rode o comando para inicializa-lo.<br />
 Rode a aplicação no modo de desenvolvimento.<br />
 Abra [http://localhost:3000](http://localhost:3000) e veja no seu navegador.
 
