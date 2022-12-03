@@ -10,6 +10,9 @@
 ### O que posso fazer nesta aplicação?
 Adicione opções do que fazer e sorteie uma das alternativas.
 
+### Link do site:
+https://indecision-aplication.netlify.app
+
 ### Instalando o projeto:
 
 Digite no terminal `git clone https://github.com/henrique2003/Indecision-App.git`
